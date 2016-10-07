@@ -1,0 +1,27 @@
+{ "name": "count-uniq-strings",
+  "version": "0.1.0",
+  "description": "Count occurrences of strings, and record the order of their first occurrence.",
+  "keywords": [ "string", "count", "order", "uniq" ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/count-uniq-strings-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/count-uniq-strings-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/count-uniq-strings-js/issues"
+  },
+
+  "private": false, "license": "ISC",
+
+  "main": "accum.js",
+  "scripts": { "test": "nodejs usage.js" },
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
